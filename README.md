@@ -6,7 +6,7 @@
 [Image1 : Show location infomations from GPS]
 
 <div>
-<img src="https://github.com/DonggeunJung/XGPSEx/blob/master/XGPSEx_Capture.jpg?raw=true width="400px"></img>
+<img src="https://github.com/DonggeunJung/XGPSEx/blob/master/Ext/XGPSEx_Capture.jpg?raw=true width="400px"></img>
 </div>
 
 
@@ -18,6 +18,6 @@
 
 GitHub Link : https://github.com/DonggeunJung/XGPSEx
 
-Download APK file : none
+Download APK file : https://github.com/DonggeunJung/XGPSEx/blob/master/Ext/XGPSEx.zip
 
 Any question => Email : topsan72@gmail.com / Author : Donggeun Jung (Dennis)
